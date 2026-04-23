@@ -32,9 +32,10 @@ With **7+ years of experience**, I’ve delivered enterprise platforms, SaaS pro
 
 ---
 
-📊 GitHub Stats
+📊 Private Contributions
 
 <img width="767" height="225" alt="Screenshot 2026-04-23 at 10 22 28 pm" src="https://github.com/user-attachments/assets/195e2a43-15db-44e1-9b15-2a87ba242429" />
+
 
 <img width="770" height="213" alt="Screenshot 2026-04-23 at 10 23 55 pm" src="https://github.com/user-attachments/assets/9efd89e8-8079-499b-a0bc-10527f53fb1e" />
 
