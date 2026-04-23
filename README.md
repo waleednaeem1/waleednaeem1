@@ -32,7 +32,7 @@ With **7+ years of experience**, I’ve delivered enterprise platforms, SaaS pro
 
 ---
 
-📊 Private Contributions
+## 📊 Private Contributions
 
 
 <img width="767" height="225" alt="Screenshot 2026-04-23 at 10 22 28 pm" src="https://github.com/user-attachments/assets/195e2a43-15db-44e1-9b15-2a87ba242429" />
